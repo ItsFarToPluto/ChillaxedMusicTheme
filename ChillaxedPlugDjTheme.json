@@ -2,7 +2,7 @@
     "room": "🎧 ChillaxMusic 🎧",
     "author": "Designed & Created By YouCannotHide",
     "icon": "http://i68.tinypic.com/2je61dx.png",
-    "css": "https://cdn.rawgit.com/YouCannotHide/615cba13ab12e1e59ce3939c7d914431/raw/f222c707c6da0fcdc3f548cd165d7b3b1341d70c/PlugDjTheme.css",
+    "css": "https://cdn.rawgit.com/YouCannotHide/615cba13ab12e1e59ce3939c7d914431/raw/985bbf8c28fc746136ffde39815997bd8161290c/PlugDjTheme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
