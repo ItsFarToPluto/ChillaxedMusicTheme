@@ -1,0 +1,40 @@
+{
+    "room": "🎧 ChillaxMusic 🎧",
+    "author": "Created By YouCannotHide",
+    "icon": "http://i68.tinypic.com/2je61dx.png",
+    "css": "https://cdn.rawgit.com/YouCannotHide/615cba13ab12e1e59ce3939c7d914431/raw/13d1b97b903354f03202882384e1f6a9fd77e57d/PlugDjTheme.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": "#FF8C00",
+        "host": "#990000",
+        "cohost": "#990000",
+        "manager": "#ff0000",
+        "bouncer": "#f92f2f",
+        "rdj": "#f92f2f",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/1.png",
+        "admin": null,
+        "ambassador": "http://i65.tinypic.com/16c8i6r.png",
+        "host": "http://i68.tinypic.com/2j4rihe.png",
+        "cohost": "http://i68.tinypic.com/2j4rihe.png",
+        "manager": "http://i67.tinypic.com/2eyhv9z.png",
+        "bouncer": "http://i68.tinypic.com/w2j8d3.png",
+        "rdj": "http://i63.tinypic.com/6hhsb8.png",
+        "subscriber": null,
+        "silversubscriber": null
+}
